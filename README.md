@@ -47,6 +47,6 @@ Make gives repeated tasks short, consistent commands. The all recipe invokes eac
 
 ## Submission
 
-The repository contains the complete calculator sources, unit tests, build.py, requirements.txt, Makefile, and documentation. `evidence/` contains the actual successful build log showing the project base directory and build duration. The lab also requests a terminal screenshot: run `pyb run_unit_tests` and capture the successful build summary in your terminal. Submit a text file containing the repository URL, as directed by the course submission instructions, and grant repository access to NourSN2004, HusseinMoukalled, and RanimTahmoush.
+The repository contains the complete calculator sources, unit tests, build.py, requirements.txt, Makefile, and documentation. `evidence/` contains the successful local build logs and an unedited screenshot of PyBuilder command output from GitHub Actions, showing 10 passing tests, the project base directory, build completion, and elapsed time. See [build evidence](evidence/README.md) for the run link and screenshot details. Submit a text file containing the repository URL, as directed by the course submission instructions, and grant repository access to NourSN2004, HusseinMoukalled, and RanimTahmoush.
 
 PyBuilder reference: https://pybuilder.io/documentation/tutorial
